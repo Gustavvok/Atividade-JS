@@ -34,36 +34,6 @@ input[type="checkbox"]{
     cursor: pointer;
 }
 
-.concluir{
-    background-color: #4CAF50;
-    border: none;
-    cursor: pointer;
-}
-
-.cancelar{
-    background-color: #ff0000;
-    border: none;
-    cursor: pointer;
-}
-
-.remover{
-    background-color: #808080;
-    border: none;
-    cursor: pointer;
-}
-
-.cancelar:hover{
-    background-color: #ec0101;
-}
-
-.remover:hover{
-    background-color: #767676;
-}
-
-.concluir:hover{
-    background-color: #45a049;
-}
-
 input[type="submit"]:hover {
     background-color: #45a049;
 }
